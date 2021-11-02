@@ -1,2 +1,2 @@
-# mlzoomcamp
-This repository contains most of the learnings from mlzoomcamp
+# mlzoomcamp Midterm project 
+## https://github.com/snikhil17/Mid-Term-Project-Zoomcamp
