@@ -1,8 +1,6 @@
 # mlzoomcamp Midterm project 
 ## https://github.com/snikhil17/Mid-Term-Project-Zoomcamp
 
-# Mid-Term-Project-Zoomcamp
-
 ## train_xgb.py 
 
 ![image](https://user-images.githubusercontent.com/80937106/139857571-42f1cfa4-4dbf-417e-8479-777b2f2810e5.png)
